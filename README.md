@@ -92,10 +92,4 @@ The confusion matrix shows:
 
 The Elbow Method tests k values from 1 to 29 and plots the error rate for each k. This helps identify the optimal number of neighbors that minimizes classification error without overfitting.
 
-## Author
 
-Kajal Parmar
-
-## License
-
-This project is open source and available for educational purposes.
